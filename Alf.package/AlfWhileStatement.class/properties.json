@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Statement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition",
+		"body" ],
+	"name" : "AlfWhileStatement",
+	"pools" : [
+		 ],
+	"super" : "AlfStatement",
+	"type" : "normal" }

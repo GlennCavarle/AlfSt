@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 10/26/2015 21:14",
+	"instvars" : [
+		"isAmbiguous",
+		"nameBindings" ],
+	"name" : "AlfQualifiedName",
+	"pools" : [
+		 ],
+	"super" : "AlfSyntaxElement",
+	"type" : "normal" }

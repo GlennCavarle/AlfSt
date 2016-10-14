@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elements" ],
+	"name" : "AlfSequenceExpressionList",
+	"pools" : [
+		 ],
+	"super" : "AlfSequenceElements",
+	"type" : "normal" }

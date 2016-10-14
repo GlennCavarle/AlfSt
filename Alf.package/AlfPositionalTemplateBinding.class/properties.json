@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argumentName" ],
+	"name" : "AlfPositionalTemplateBinding",
+	"pools" : [
+		 ],
+	"super" : "AlfTemplateBinding",
+	"type" : "normal" }

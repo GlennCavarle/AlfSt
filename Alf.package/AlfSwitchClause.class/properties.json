@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block",
+		"case" ],
+	"name" : "AlfSwitchClause",
+	"pools" : [
+		 ],
+	"super" : "AlfSyntaxElement",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elements",
+		"hasMultiplicity",
+		"typeName" ],
+	"name" : "AlfSequenceConstructionExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfExpression",
+	"type" : "normal" }

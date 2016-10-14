@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Statement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"typeName",
+		"expression" ],
+	"name" : "AlfLocalNameDeclarationStatement",
+	"pools" : [
+		 ],
+	"super" : "AlfStatement",
+	"type" : "normal" }

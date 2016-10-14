@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Statement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block" ],
+	"name" : "AlfBlockStatement",
+	"pools" : [
+		 ],
+	"super" : "AlfStatement",
+	"type" : "normal" }

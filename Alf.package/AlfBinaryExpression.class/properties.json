@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operator",
+		"operand1",
+		"operand2" ],
+	"name" : "AlfBinaryExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfExpression",
+	"type" : "normal" }

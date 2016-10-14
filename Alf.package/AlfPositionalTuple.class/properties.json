@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expressions" ],
+	"name" : "AlfPositionalTuple",
+	"pools" : [
+		 ],
+	"super" : "AlfTuple",
+	"type" : "normal" }

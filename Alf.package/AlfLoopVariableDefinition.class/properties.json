@@ -1,0 +1,18 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression1",
+		"expression2",
+		"typeIsInferred",
+		"typeName",
+		"variable" ],
+	"name" : "AlfLoopVariableDefinition",
+	"pools" : [
+		 ],
+	"super" : "AlfSyntaxElement",
+	"type" : "normal" }

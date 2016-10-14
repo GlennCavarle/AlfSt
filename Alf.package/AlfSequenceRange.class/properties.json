@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rangeLower",
+		"rangeLUpper" ],
+	"name" : "AlfSequenceRange",
+	"pools" : [
+		 ],
+	"super" : "AlfSequenceElements",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AlfBitStringUnaryExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfUnaryExpression",
+	"type" : "normal" }

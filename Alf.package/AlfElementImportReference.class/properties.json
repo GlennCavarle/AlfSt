@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alias" ],
+	"name" : "AlfElementImportReference",
+	"pools" : [
+		 ],
+	"super" : "AlfImportReference",
+	"type" : "normal" }

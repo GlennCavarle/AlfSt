@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Statement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 10/26/2015 20:39",
+	"instvars" : [
+		"identifier",
+		"arguments" ],
+	"name" : "AlfAnnotation",
+	"pools" : [
+		 ],
+	"super" : "AlfSyntaxElement",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Statement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nonFinalClauses",
+		"finalClause",
+		"body" ],
+	"name" : "AlfIfStatement",
+	"pools" : [
+		 ],
+	"super" : "AlfStatement",
+	"type" : "normal" }

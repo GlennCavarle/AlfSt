@@ -1,0 +1,14 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"typeName" ],
+	"name" : "AlfClasificationExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfUnaryExpression",
+	"type" : "normal" }

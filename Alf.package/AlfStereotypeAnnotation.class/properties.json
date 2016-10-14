@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"names",
+		"stereotypeName",
+		"taggedValues" ],
+	"name" : "AlfStereotypeAnnotation",
+	"pools" : [
+		 ],
+	"super" : "AlfSequenceElements",
+	"type" : "normal" }

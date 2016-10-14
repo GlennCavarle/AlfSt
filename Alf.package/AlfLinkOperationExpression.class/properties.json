@@ -1,0 +1,15 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"associationName",
+		"operation" ],
+	"name" : "AlfLinkOperationExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfInvocationExpression",
+	"type" : "normal" }

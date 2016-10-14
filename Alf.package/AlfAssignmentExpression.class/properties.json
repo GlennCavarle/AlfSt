@@ -1,0 +1,16 @@
+{
+	"category" : "Alf-Expression",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 10/26/2015 21:02",
+	"instvars" : [
+		"leftHandSide",
+		"operator",
+		"rightHandSide" ],
+	"name" : "AlfAssignmentExpression",
+	"pools" : [
+		 ],
+	"super" : "AlfExpression",
+	"type" : "normal" }
